@@ -6,7 +6,6 @@ This project delivers personalized and filtered movie suggestions using modern w
 
 - Project link - https://movie-recommender-ssom.vercel.app/
 - Streamlit link - https://movie-recommender-ml-app.streamlit.app/
-- ML API link - https://movie-recommender-api-pe1p.onrender.com/
 
 ---
 
